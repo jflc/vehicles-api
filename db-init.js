@@ -1,0 +1,1 @@
+db.vehicles.createIndex( { "id": 1 }, { unique: true } )
